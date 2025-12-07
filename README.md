@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 ##### Connect With Me
 ![https://instagram.com/watashi_hfd](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-###### Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ##### Let's Play Game With Me
 
