@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently Studying STAI Nurud Dhalam Indonesia
+
+- 🔭 I’m currently Studying at STAI Nurud Dhalam Indonesia
 - 🌱 I’m currently learning Python and GitHub
 
 ##### Skills
@@ -26,9 +27,8 @@ Here are some ideas to get you started:
 ##### Connect With Me
 ![https://instagram.com/watashi_hfd](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-##### My Github Stats
-
-
+###### Git Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ##### Let's Play Game With Me
 
